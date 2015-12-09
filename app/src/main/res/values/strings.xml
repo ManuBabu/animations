@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityAnimation</string>
+    <string name="ButtonLable">Goto Next Activity</string>
+</resources>
